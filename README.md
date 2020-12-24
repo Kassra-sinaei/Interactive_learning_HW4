@@ -5,11 +5,11 @@ Implementation of different reinforcement learning agents to solve a gridworld g
 School of Electrical and Computer Engineering of University of Tehran</br>
 
 Implemented Agents: </br>
-<li>
-  <tu>On-Policy Monte Carlo</tu>
-  <tu>Off-Policy Monte Carlo</tu>
-  <tu>SARSA</tu>
-  <tu>Double Q-Learning</tu>
-  <tu>n-Step Expected SARSA</tu>
-  <tu>Tree Back-up</tu>
-</li>
+<ul>
+  <li>On-Policy Monte Carlo</li>
+  <li>Off-Policy Monte Carlo</li>
+  <li>SARSA</li>
+  <li>Double Q-Learning</li>
+  <li>n-Step Expected SARSA</li>
+  <li>Tree Back-up</li>
+</ul>
