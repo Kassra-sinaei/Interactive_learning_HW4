@@ -13,3 +13,8 @@ Implemented Agents: </br>
   <li>n-Step Expected SARSA</li>
   <li>Tree Back-up</li>
 </ul>
+
+</br>
+<i> Some Guy is stuck at the middle of a river which is mapped to a 10x10 environment there is rocks depicted with black and deep areas illustrated in dark blue
+    agent should resue that dude into an island located at top right corner</i>
+<img src = env.jpg>
